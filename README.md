@@ -1,5 +1,9 @@
 ## Hi, I'm Natalia 👋
 
+
+
+👩🏻‍💻 I studied Computer Science and Mathematics at Maria Curie-Skłodowska University.
+
 <!--
 **NataliaFlorek/NataliaFlorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
