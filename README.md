@@ -8,7 +8,7 @@
 Python / Django / C++ / HTML 
 
 **Tools & Technologies:**  
-Git / GitHub / Linux / SQL / VS Code / Jupyter / LaTeX  / Notion
+Git / GitHub / Linux / SQL / VS Code / Jupyter / LaTeX  / Notion / Figma
 
 ---
 
