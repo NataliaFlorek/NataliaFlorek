@@ -5,7 +5,7 @@
 
 ### 🛠️ Skills
 **Languages & Frameworks:**  
-Python / Django / C++ / HTML 
+Python / C++ 
 
 **Tools & Technologies:**  
 Git / GitHub / Linux / SQL / VS Code / Jupyter / LaTeX  / Notion / Figma
